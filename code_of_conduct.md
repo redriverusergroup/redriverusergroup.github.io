@@ -2,8 +2,6 @@
 layout: default
 title: Code of Conduct
 ---
-# Code of Conduct
-
 This code of conduct outlines our expectations for participants within the Red River User Group community, as well as steps to reporting unacceptable behavior. We are committed to providing a welcoming and inspiring community for all and expect our code of conduct to be honored. Anyone who violates this code of conduct may be banned from the community.
 
 ## Our technologist community strives to:
@@ -47,9 +45,15 @@ If you experience or witness unacceptable behavior—or have any other concerns�
 ## Attribution & Acknowledgements
 
 We all stand on the shoulders of giants across many software professional communities. We’d like to thank the communities and projects that established code of conducts and diversity statements as our inspiration:
-    [Django](https://www.djangoproject.com/conduct/reporting/)
-    [Python](https://www.python.org/community/diversity/)
-    [Ubuntu](http://www.ubuntu.com/about/about-ubuntu/conduct)
-    [Contributor Covenant](http://contributor-covenant.org/)
-    [Geek Feminism](http://geekfeminism.org/about/code-of-conduct/)
-    [Citizen Code of Conduct](http://citizencodeofconduct.org/)
+
+[Django](https://www.djangoproject.com/conduct/reporting/)
+
+[Python](https://www.python.org/community/diversity/)
+
+[Ubuntu](http://www.ubuntu.com/about/about-ubuntu/conduct)
+
+[Contributor Covenant](http://contributor-covenant.org/)
+
+[Geek Feminism](http://geekfeminism.org/about/code-of-conduct/)
+
+[Citizen Code of Conduct](http://citizencodeofconduct.org/)
