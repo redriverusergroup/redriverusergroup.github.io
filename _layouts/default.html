@@ -22,11 +22,10 @@
           <h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
         </header>
         <section id="downloads" class="clearfix">
-          <a href="https://{{ site.domain }}" class="button"><span>Home</span></a>
-          <a href="https://{{ site.domain }}/code_of_conduct" class="button"><span>Code of Conduct</span></a>
-          <a href="https://{{ site.domain }}/sponsors" class="button"><span>Sponsors</span></a>
+          <a href="https://{{ site.domain }}" style="float: left;"><span>Home</span></a>
+          <a href="https://{{ site.domain }}/code_of_conduct" style="float: left;"><span>Code of Conduct</span></a>
+          <a href="https://{{ site.domain }}/sponsors" style="float: left;"><span>Sponsors</span></a>
         </section>
-        <hr>
         <section id="main_content">
           {{ content }}
         </section>
