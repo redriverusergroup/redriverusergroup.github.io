@@ -7,3 +7,5 @@ River User Group serves developers in and around the Shreveport-Bossier area. We
 We will have free food and a presentation on topics relevant to software developers.
 
 If you are interested in speaking at the Red River User Group, send an email to [redriverusergroup@gmail.com](mailto:redriverusergroup@gmail.com)
+
+[![Join our Slack](images/slack_button_outline.svg | width=100)](https://join.slack.com/t/redriverusergroups/shared_invite/enQtODk2NzM1MDMyNjc0LTJlOGFkNTZjYzFlYjFmYzBiNzU3ZTFhZGYxNTFiNDJhNDNjNGY2OTdhZjQwOTJiZTFhZmQ5ZGVjMjIzODBhYjU)
